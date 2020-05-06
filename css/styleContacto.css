@@ -1,0 +1,48 @@
+*{margin: 0 auto;}
+
+body{background-color: black;}
+
+
+.container{
+  
+  background-color: cadetblue;
+
+}
+
+h1{
+   
+    font-size: 30px;
+  
+ 
+ 
+}
+
+img{
+     
+    border: 1px gray solid;
+    width: 5%;
+ 
+
+}
+
+#exampleFormControlTextarea1{
+    
+ padding: 2%;
+}
+
+.form-control{
+   width: 96%;
+  
+  
+}
+
+
+#volver{
+   
+    text-align: center;
+
+    margin-top: 2%;
+    margin-bottom: 3%;
+}
+
+

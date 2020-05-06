@@ -1,0 +1,86 @@
+
+
+@font-face{
+
+    src: url(fonts/CaveatBrush-Regular.ttf);
+    font-family: caveat;
+}
+
+
+*{
+
+    margin: 0 auto ;
+    box-sizing: border-box;
+ 
+}
+
+
+h1{
+
+   color: white;
+    text-align: center;
+}
+
+
+body{
+
+background-color: black;
+}
+
+
+#temas{
+
+
+    margin-top: 2%;
+ 
+}
+
+
+p{
+   
+    color: white;
+}
+
+
+
+
+
+.navbar-nav{
+
+  margin-left: 10%;
+  font-size: 20px;
+}
+
+#letra{
+     font-size: 30px;
+    font-family: caveat;
+}
+
+#historia{
+
+
+    margin-top: 4%;
+    text-align: left !important;
+}
+
+h2{
+
+  margin-top: 3%;
+    color: white;
+    text-align: center;
+}
+
+/* 
+@media (min-width: 1875px) {
+    .navbar-nav{
+
+        margin-left: 33%;
+    }
+  } */
+
+
+
+#volverArriba{
+
+    text-align: center;
+}
